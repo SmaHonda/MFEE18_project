@@ -47,3 +47,8 @@
 <br/>
 9/2(四) 下午<br/>
 <br/>
+
+
+-----------------------------------<br/>
+<h2>分組名單</h2>
+https://docs.google.com/spreadsheets/d/1DyMMzzcAs6SuMrsbP4X4bA7r-hrxLrC16ztRxxRreic/edit#gid=395343116
