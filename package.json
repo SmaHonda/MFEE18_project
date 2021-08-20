@@ -1,0 +1,25 @@
+{
+  "name": "MFEE18_project",
+  "version": "1.0.0",
+  "description": "<br/> 8/10 ~ 8/19 主題蒐集(10days)<br/> <br/> 8/19 討論主題與定案初步架構<br/> <br/> 8~19~8/31 架構與細節內容規劃(13days)<br/> <br/> 9/1 ~ 10/1 製作(30days)<br/> <br/> 10/1~10/15 debug+報告準備(14days)<br/> <br/> 10/15 報告<br/> <br/> -----------------------------------<br/> <h2>8/12老師說的時間</h2> 8/26 討論&確認題目<br/> <br/> 9/7 題目最後定案日<br/> <br/> 9/9 課表的課全部結束<br/> <br/> 9/13 整週 單獨和老師聊<br/> <br/> <br/> **如果現場報告<br/> <br/> 9/27 整週 和老師預演<br/> <br/> 10/8 提交報告簡報<br/> <br/> **如果疫情持續、線上報告的狀況<br/> <br/> 9/20 預演<br/> <br/> 10/4整週 到資策會錄影<br/> <br/>",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmaHonda/MFEE18_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmaHonda/MFEE18_project/issues"
+  },
+  "homepage": "https://github.com/SmaHonda/MFEE18_project#readme",
+  "dependencies": {
+    "vuepress": "^1.8.2",
+    "yarn": "^1.22.11"
+  }
+}
