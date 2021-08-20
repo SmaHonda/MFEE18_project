@@ -1,26 +1,16 @@
 module.exports = {
-    title: 'PROJECT',
-    description: '',
-    // dest: 'docs',
+    title: 'Terraform 的一百零一種姿勢',
+    description: 'Terraform manage guide',
     base: '/MFEE18_project/',
     repo: 'https://github.com/SmaHonda/MFEE18_project',
     themeConfig: {
-      sidebarDepth: 1,
+      sidebarDepth: 0,
       sidebar: [
-        ['/', '前言'],
-        {
-            title: 'Project',
-            collapsable: false,
-            children: [
-              '/product/add',
-            //   '/component/state-storage-and-locking',
-            //   '/component/backends',
-            ]
-          },
+        ['/', '前言']
       ],
       nav: [
         { text: 'Home', link: '/' },
-        // { text: 'Github', link: 'https://github.com/SmaHonda/MFEE18_project' }
+        { text: 'Github', link: 'https://github.com/SmaHonda/MFEE18_project' }
       ]
     }
   }
