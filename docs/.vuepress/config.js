@@ -2,7 +2,7 @@ module.exports = {
     title: 'PROJECT',
     description: '',
     dest: 'docs',
-    base: '/MFEE18-project/',
+    base: '/MFEE18_project/',
     repo: 'https://github.com/SmaHonda/MFEE18_project',
     themeConfig: {
       sidebarDepth: 0,
