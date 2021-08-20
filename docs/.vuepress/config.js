@@ -1,7 +1,7 @@
 module.exports = {
     title: 'PROJECT',
     description: '',
-    dest: /docs/,
+    // dest: 'docs',
     base: '/MFEE18_project/',
     repo: 'https://github.com/SmaHonda/MFEE18_project',
     themeConfig: {
@@ -9,7 +9,7 @@ module.exports = {
       sidebar: [
         ['/', '前言'],
         {
-            title: '主要元件',
+            title: 'Project',
             collapsable: false,
             children: [
               '/product/add',
