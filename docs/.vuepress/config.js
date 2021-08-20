@@ -1,7 +1,7 @@
 module.exports = {
     title: 'PROJECT',
     description: '',
-    dest: 'docs',
+    dest: /docs/,
     base: '/MFEE18_project/',
     repo: 'https://github.com/SmaHonda/MFEE18_project',
     themeConfig: {
