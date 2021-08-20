@@ -5,7 +5,7 @@ module.exports = {
     base: '/MFEE18_project/',
     repo: 'https://github.com/SmaHonda/MFEE18_project',
     themeConfig: {
-      sidebarDepth: 0,
+      sidebarDepth: 1,
       sidebar: [
         ['/', '前言'],
         {
