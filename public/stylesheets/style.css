@@ -21,4 +21,6 @@ a {
 footer{
   background-color: var(--color1) ;
   color: white ;
+  height: 350px;
+  text-align: center;
 }
