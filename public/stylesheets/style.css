@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+  --color1: #19294f ;
+  --color2: #f3ece6 ;
+  --color3: #dfcebe ;
+  --color4: #c5724c ;
+}
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: var(--color1);
+}
+
+a {
+  color: var(--color4);
+}
+
+footer{
+  background-color: var(--color1) ;
+  color: white ;
+}
